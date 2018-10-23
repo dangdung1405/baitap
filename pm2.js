@@ -9,6 +9,6 @@ const add = (a, b) => {
     });
 };
 add(4, 5)
-    .then(res => console.log(res))
+    .then(abc => console.log(abc)) //sua code 
     .catch(error => console.log(error));
 
